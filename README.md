@@ -9,3 +9,10 @@ Sử dụng Springboot làm web bán hàng
  - Spring mail
  - Session
  - admin page
+# Dự án có chức năng:
+ - Đăng nhập, đăng ký, quên mật khẩu
+ - filter sản phẩm loại và giá
+ - phân trang
+ - giỏ hàng
+ - Chi tiết sản phẩm
+ - Quản lý sản phẩm, user
